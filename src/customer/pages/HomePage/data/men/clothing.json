@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Men's Casual T-Shirt",
+    "price": "₹222.30",
+    "discounted_price": "₹180.00",
+    "description": "A slim-fitting style with contrast raglan long sleeves and a three-button henley placket. Crafted from lightweight and soft fabric for breathable and comfortable wear.",
+    "category": "Men's Clothing",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": 4.1,
+    "discount_percentage": "19.0%"
+  },
+  {
+    "id": 2,
+    "title": "Men's Cotton Jacket",
+    "price": "₹550.99",
+    "discounted_price": "₹450.00",
+    "description": "A great outerwear jacket suitable for spring, autumn, and winter. Ideal for various occasions such as working, hiking, camping, mountain/rock climbing, cycling, traveling, and more.",
+    "category": "Men's Clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": 5,
+    "discount_percentage": "18.2%"
+  },
+  {
+    "id": 3,
+    "title": "Men's Casual T-Shirt",
+    "price": "₹355.99",
+    "discounted_price": "₹255.00",
+    "description": "Perfect for casual wear, this T-shirt offers a slim fit and comes in various colors. Please note that the color may slightly differ between the screen and reality.",
+    "category": "Men's Clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": 3.7,
+    "discount_percentage": "28.3%"
+  },
+  {
+    "id": 1,
+    "title": "Men's Casual T-Shirt",
+    "price": "₹222.30",
+    "discounted_price": "₹180.00",
+    "description": "A slim-fitting style with contrast raglan long sleeves and a three-button henley placket. Crafted from lightweight and soft fabric for breathable and comfortable wear.",
+    "category": "Men's Clothing",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": 4.1,
+    "discount_percentage": "19.0%"
+  },
+  {
+    "id": 2,
+    "title": "Men's Cotton Jacket",
+    "price": "₹550.99",
+    "discounted_price": "₹450.00",
+    "description": "A great outerwear jacket suitable for spring, autumn, and winter. Ideal for various occasions such as working, hiking, camping, mountain/rock climbing, cycling, traveling, and more.",
+    "category": "Men's Clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": 5,
+    "discount_percentage": "18.2%"
+  },
+  {
+    "id": 3,
+    "title": "Men's Casual T-Shirt",
+    "price": "₹355.99",
+    "discounted_price": "₹255.00",
+    "description": "Perfect for casual wear, this T-shirt offers a slim fit and comes in various colors. Please note that the color may slightly differ between the screen and reality.",
+    "category": "Men's Clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": 3.7,
+    "discount_percentage": "28.3%"
+  }
+]
