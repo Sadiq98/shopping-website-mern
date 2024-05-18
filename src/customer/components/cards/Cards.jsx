@@ -30,7 +30,7 @@ function Cards({data, SectionName }) {
                 <div>
                     <h2 className='text-2xl font-extrabold text-grey-800'>{SectionName}</h2>
                 </div>
-                <div className="flex flex-nowrap overflow-x-auto">
+                <div className="flex flex-nowrap overflow-x-auto no-scrollbar">
                     {data.map(item => (
                         <div key={item.id} className="relative m-10 flex-shrink-0 w-full max-w-xs flex-col overflow-hidden rounded-lg border border-gray-100 bg-white">
                             <a className="relative mx-3 mt-3 items-center justify-center flex  overflow-hidden rounded-xl " href="#">
